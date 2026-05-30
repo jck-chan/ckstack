@@ -1,0 +1,12 @@
+{
+  "name": "ckstack",
+  "version": "1.0.0",
+  "description": "Personal agent skills for everyday work",
+  "author": {
+    "name": "Chan Chi Kit",
+    "email": "jacky06211@gmail.com"
+  },
+  "repository": "https://github.com/jck-chan/ckstack",
+  "license": "UNLICENSED",
+  "keywords": ["personal", "general", "everyday", "work"]
+}
