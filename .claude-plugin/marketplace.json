@@ -1,0 +1,15 @@
+{
+  "name": "ckstack",
+  "owner": {
+    "name": "Chan Chi Kit",
+    "email": "jacky06211@gmail.com"
+  },
+  "description": "Personal agent skills for everyday work",
+  "plugins": [
+    {
+      "name": "ckstack",
+      "source": "./",
+      "description": "Personal agent skills for everyday work"
+    }
+  ]
+}
