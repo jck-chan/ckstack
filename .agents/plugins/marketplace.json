@@ -1,0 +1,21 @@
+{
+  "name": "ckstack",
+  "interface": {
+    "displayName": "ckstack"
+  },
+  "plugins": [
+    {
+      "name": "ckstack",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jck-chan/ckstack.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
